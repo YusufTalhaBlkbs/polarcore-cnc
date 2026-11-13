@@ -1,2 +1,2 @@
-# open-source-cnc-router
+# PolarCore-CNC
 Custom fixed gantry desktop CNC Router
